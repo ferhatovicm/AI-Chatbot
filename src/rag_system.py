@@ -45,14 +45,14 @@ class SimpleRAG:
             input_variables=["context", "question"]
         )
 
-       # Create QA chain
-       self.qa_chain = RetrievalQA.from_chain_type(
-           llm=self.llm,
-           chain_type="stuff",
-           retriever=retriever,
-           chain_type_kwargs={"prompt": prompt},
-           return_source_documents=True
-        )
+        # Create QA chain
+        self.qa_chain = RetrievalQA.from_chain_type(
+            llm=self.llm,
+            chain_type="stuff",
+            retriever=retriever,
+            chain_type_kwargs={"prompt": prompt},
+            return_source_documents=True
+         )
 
     
     def ask_question(self, question: str):
