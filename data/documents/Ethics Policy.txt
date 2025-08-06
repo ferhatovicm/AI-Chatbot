@@ -1,0 +1,139 @@
+2. Ethics Policy
+
+File; Ethics_POL_5.00_2023_6_30
+
+Classification: CONFIDENTIAL
+
+Note: If you are reading a printed copy of this document, please make sure that there is not a newer version of this document online at Cape Ann (Cape Ann) Learning and Development Platform at: (https://lms.capeannenterprises.com/)
+
+1.     Overview
+Cape Ann is committed to protecting employees, partners, vendors, and the company from illegal or damaging actions by individuals, either knowingly or unknowingly.  When Cape Ann addresses issues proactively and uses correct judgment, it will help set us apart from competitors.
+
+Cape Ann will not tolerate any wrongdoing or impropriety at any time.  Cape Ann will take the appropriate measures to act quickly in correcting the issue if the ethical code is broken.
+
+2.     Purpose
+The purpose of this policy is to establish a culture of openness, trust and to emphasize the employee’s and consumer’s expectations to be treated to fair business practices.  This policy will serve to guide business behavior to ensure ethical conduct. Effective ethics is a team effort involving the participation and support of every Cape Ann employee.  All employees should familiarize themselves with the ethics guidelines that follow this introduction.
+
+3.     Scope
+This policy applies to employees, contractors, consultants, temporaries, and other workers at Cape Ann, including all personnel affiliated with third parties.
+
+4.     Policy
+4.1  Executive Commitment to Ethics
+
+4.1.1      Senior leaders and executives within Cape Ann must set a prime example.  In any business practice, honesty and integrity must be top priority for executives.
+
+4.1.2      Executives must have an open-door policy and welcome suggestions and concerns from employees.  This will allow employees to feel comfortable discussing any issues and will alert executives to concerns within the workforce.
+
+4.1.3      Executives must disclose any conflict of interests regard their position within Cape Ann.
+
+4.2  Employee Commitment to Ethics
+
+4.2.1      Cape Ann employees will treat everyone fairly, have mutual respect, promote a team environment and avoid the intent and appearance of unethical or compromising practices.
+
+4.2.2      Every employee needs to apply effort and intelligence in maintaining ethics value.
+
+4.2.3      Employees must disclose any conflict of interests regard their position within Cape Ann.
+
+4.2.4      Employees will help Cape Ann to increase customer and vendor satisfaction by providing quality product s and timely response to inquiries.
+
+4.2.5      Employees should consider the following questions to themselves when any behavior is questionable:
+
+Is the behavior legal?
+Does the behavior comply with all appropriate Cape Ann policies?
+Does the behavior reflect Cape Ann values and culture?
+Could the behavior adversely affect company stakeholders?
+Would you feel personally concerned if the behavior appeared in a news headline?
+Could the behavior adversely affect Cape Ann if all employees did it?
+4.3  Company Awareness
+
+4.3.1      Promotion of ethical conduct within interpersonal communications of employees will be rewarded.
+
+4.3.2      Cape Ann will promote a trustworthy and honest atmosphere to reinforce the vision of ethics within the company.
+
+4.4  Maintaining Ethical Practices
+
+4.4.1      Cape Ann will reinforce the importance of the integrity message and the tone will start at the top.  Every employee, manager, the director needs to consistently maintain an ethical stance and support ethical behavior.
+
+4.4.2      Employees at Cape Ann should encourage open dialogue, get honest feedback and treat everyone fairly, with honesty and objectivity.
+
+4.4.3      Cape Ann has established a best practice disclosure committee to make sure the ethical code is delivered to all employees and that concerns regarding the code can be addressed.
+
+4.4.4      Employees are required to recertify their compliance to Ethics Policy on an annual basis.
+
+4.5  Unethical Behavior
+
+4.5.1      Cape Ann will avoid the intent and appearance of unethical or compromising practice in relationships, actions, and communications.
+
+4.5.2      Cape Ann will not tolerate harassment or discrimination.
+
+4.5.3      Unauthorized use of company trade secrets & marketing, operational, personnel, financial, source code, & technical information integral to the success of our company will not be tolerated.
+
+4.5.4      Cape Ann will not permit impropriety at any time and we will act ethically and responsibly in accordance with laws.
+
+4.5.5      Cape Ann employees will not use corporate assets or business relationships for personal use or gain.
+
+4.6  Reporting Unethical Behavior
+
+4.6.1 Employees should report promptly to the Director of Human Resources when they observe illegal and/or unethical behavior and any violations of Cape Ann Policies using the Issue Report Policy
+
+4.6.2 Cape Ann forbids retaliation or discrimination of any kind by its employees against any employee who submitted a good faith complaint. Specifically, the company will not discharge, demote, suspend, threaten, harass, or in any manner discriminate or retaliate against a complainant or other employee who provides information in the course of an investigation. Employees who feel that they have experienced retaliation as a result of making a complaint or providing information may report any incidents to the Director of Human Resources.
+
+Violations of this policy will be investigated and individuals who have been found to retaliate or discriminate will be disciplined up to and including termination of employment. Similarly, individuals who are found to have intentionally made false and malicious claims may be subject to disciplinary action.
+
+5.     Policy Compliance
+5.1  Compliance Measurement
+
+Cape Ann Human Resources Team will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback.
+
+5.2  Exceptions
+
+None.
+
+5.3  Non-Compliance
+
+An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+
+6       Related Standards, Policies, and Processes
+None.
+
+7       Definitions and Terms
+
+None.
+
+8       Revision History
+Date of Change
+
+Responsible
+
+Summary of Change
+
+June 2014
+
+SANS Policy Team
+
+Updated and converted to a new format.
+
+May 2020
+
+CA InfoSec Team
+
+Added Sections 4.6; 4.6.1; 4.6.2.
+
+October 2021
+
+Adnan Mesalic
+David Martz
+
+Reviewed, No Updates Required
+
+June 2023
+
+InfoSec team
+
+Replaced the Incident Report From - linked, with the Issue Report Policy - linked.
+
+June 2023
+
+InfoSec team
+
+Added document identification Taxonomy/ Abbreviations

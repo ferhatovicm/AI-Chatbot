@@ -1,0 +1,94 @@
+Physical Security Policy
+
+File: PhySec_POL_2.00_2023_7_7      
+
+Classification: CONFIDENTIAL
+
+Note: If you are reading a printed copy of this document, please make sure that there is not a newer version of this document online at Cape Ann Enterprises (Cape Ann) Learning and Development Platform at: (https://lms.capeannenterprises.com/)
+
+Version: 1.0
+
+1. Policy Statement
+To meet the enterprise business objectives and ensure continuity of its operations, Cape Ann shall adopt and follow well-defined and time-tested plans and procedures, to ensure the physical security of all information assets and human assets. Physical security is an essential part of a security plan. It forms the basis for all other security efforts, including personnel and information security. A balanced security program must include a solid physical security foundation. A solid physical security foundation protects and preserves information, physical assets, and human assets.
+
+2. Purpose
+The purpose of the Physical Security Policy is to:
+
+●      establish the rules for granting, control, monitoring, and removal of physical access to office premises;
+
+●      to identify sensitive areas within the organization; and
+
+●      to define and restrict access to the same.
+
+3. Scope
+3.1 Employees
+This applies to all employees, contractual employees, trainees, privileged customers, and all other visitors.
+
+3.2 Documentation
+The Physical Security Policy documentation shall consist of Physical Security Policy and related procedures & guidelines.
+
+3.3 Document Control
+The Physical Security Policy document and all other referenced documents shall be controlled. Version control shall be to preserve the latest release and the previous version of any document. However, the previous version of the documents shall be retained only for a period of two years for legal and knowledge preservation purposes.
+
+3.4 Records
+Records being generated as part of the Physical Security Policy shall be retained for a period of two years. Records shall be in hard copy or electronic media. The records shall be owned by the respective system administrators and shall be audited once a year.
+
+3.5 Distribution and Maintenance
+The Physical Security Policy document shall be made available to all the employees covered in the scope. All the changes and new releases of this document shall be made available to the persons concerned. The maintenance responsibility of the Physical Security Policy document will be with the CISO and system administrators.
+
+4. Privacy
+The Physical Security Policy document shall be considered as “confidential” and shall be made available to the concerned persons with proper access control. Subsequent changes and versions of this document shall be controlled.
+
+5. Responsibility
+The CISO / designated personnel is responsible for the proper implementation of the Physical Security Policy.
+
+6. Policy
+Following are the policies defined for maintaining Physical Security:
+
+Physical access to the server rooms/areas shall completely be controlled and servers shall be kept in the server racks under lock and key.
+Access to the servers shall be restricted only to designated Systems and Operations Personnel. Besides them, if any other person wants to work on the servers from the development area then he/she shall be able to connect to the servers only through Remote Desktop Connection with a Restricted User Account.
+Critical backup media shall be kept in a fireproof off-site location in a vault.
+Security perimeters shall be developed to protect areas that contain information systems to prevent unauthorized physical access, damage, and interference.
+A list of personnel with authorized access to the facilities where information systems reside shall be maintained with appropriate authorization credentials. The access list and authorization credentials shall be reviewed and approved by authorized personnel periodically.
+All physical access points (including designated entry/exit points) to the facilities where information systems reside shall be controlled and access shall be granted to individuals after verification of access authorization.
+Physical access to the information systems shall be monitored to detect and respond to physical security incidents.
+Physical protection against damage from fire, flood, earthquake, explosion, civil unrest, and other forms of natural and man-made disasters shall be designed and applied.
+Physical protection and guidelines for working in the areas where information systems reside shall be designed and applied.
+Information systems and their components shall be positioned within the facility to minimize risks from physical and environmental hazards and opportunities for unauthorized access.
+Information systems shall be protected from power failure and other disruptions caused by a failure in supporting utilities.
+Power and telecommunications cabling carrying data or supporting information services shall be protected from interception or damage.
+The real-time physical intrusion alarm and surveillance equipment shall be monitored.
+Physical access control to information systems shall be independent of the physical access control to the facility. This control can be applicable to server rooms or information systems with a higher impact level than that of the majority of the facility.
+Automated mechanisms to recognize potential intrusion shall be employed to initiate appropriate response actions.
+Physical access to the information systems shall be granted only after authenticating visitors before authorizing access to the facility where the information systems reside other than areas designated as “publicly accessible”.
+The access records of the visitors shall be maintained.
+Visitors shall be escorted by the designated personnel and their activities, if required, shall be monitored.
+Systems Personnel shall examine laptops of visitors for the latest anti-virus definition, latest patches and updates, and any sort of vulnerability that could be harmful to the network.
+Any user who needs to connect to the external network for official work shall be able to do so after an official sanction from the Management and Security Team. This team shall evaluate security risks before the issue of any sanction.
+A record of all physical accesses by both visitors and authorized individuals shall be maintained.
+All policies stated above shall be monitored for any changes from time to time.
+7. Enforcement
+Any employee found to have violated this policy may be subjected to disciplinary action in line with the HR Policy.
+
+8  Revision History
+ 
+Date of Change
+
+Responsible
+
+Summary of Change
+
+May 2020
+
+CA InfoSec Team
+
+General Update to Policies and Procedures
+
+July 2023
+
+InfoSec team
+
+Minor grammar corrections.
+
+Added document identification Taxonomy/ Abbreviations
+

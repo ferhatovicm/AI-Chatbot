@@ -1,0 +1,97 @@
+Cape Ann Remote Work Policy
+
+File: CARwrk_POL_3.00_2023_10_27
+
+Classification: CONFIDENTIAL
+
+Effective date: October 27, 2023
+
+Note: If you are reading a printed copy of this document, please make sure that there is not a newer version of this document online at Cape Ann Enterprises (Cape Ann) Learning and Development Platform at (https://lms.capeannenterprises.com/)
+
+
+
+1. Overview
+See Purpose.
+
+2. Purpose:
+
+To establish guidelines for employees who work from home or other remote locations, in order to ensure that the company's productivity and security goals are met.
+
+Remote work at Cape Ann is a privilege and not a guaranteed benefit. Approval is subject to stringent criteria and may be denied or revoked at management's discretion. The company's primary focus is on maintaining a productive, collaborative, and secure work environment within the office.
+
+3. Scope:
+
+This policy applies to all employees who are authorized to work from home or other remote locations, regardless of their job function or level within the company.
+
+4. Remote Work Guidelines:
+
+4.1 It is imperative to understand that frequent or prolonged periods of remote work can significantly hinder an employee's career trajectory, professional growth, and engagement with the company's core objectives.
+
+4.2 All employees contemplating remote work must submit their request through OrangeHRM, selecting the leave type as "Remote Work". The decision to grant such requests remains at the sole discretion of the supervisor and the human resources representative.
+
+4.3 With remote work requests, each employee must provide the location where remote work will be performed, such as Home, Outside of the home in Bosnia & Herzegovina, Outside of Bosnia & Herzegovina
+
+5. Main Elements:
+
+5.1 Employees working remotely must have a dedicated workspace that is free from distractions and suitable for conducting business.
+
+5.2 Employees working remotely must have a reliable internet connection and appropriate equipment, to perform their job duties.
+
+5.3 Employees working remotely must adhere to the company's security policies, including those related to data protection and remote access.
+
+5.4. Employees working remotely are expected to work their regular work schedule and must be aware of any time zone differences.
+
+6. Eligibility:
+
+6.1. Only employees with a minimum of three months of continuous service with the company are eligible to request remote work.  If an employee is not assigned to a client team, they are not eligible for remote work unless expressly approved by their supervisor and human resources.
+
+7. Communication:
+
+7.1 Remote Work requests must be submitted a minimum of 24h in advance. In case of unforeseen emergencies, the supervisor or human resources representative must be notified along with the submitted request.
+
+7.2 Employees working remotely must be reachable during their regular work hours and must be able to respond to emails, phone calls, and instant messages in a timely manner.
+
+7.3 Employees working remotely must attend regular check-ins with their supervisors to ensure that they are meeting their job responsibilities and staying connected with the rest of the team.
+
+7.4 Employees working remotely must be available for team meetings and other company events and should make every effort to attend in person when possible.
+
+7.5 Employees working remotely are expected to keep their supervisor informed of their availability.
+
+8. Limitations:
+
+8.1 Employees can use a maximum of two days of remote work per week.
+
+8.2 Employees are entitled to the same amount of remote days as their annual leave entitlement. This means that if an employee receives 20 days of annual leave, they can use up to 20 days of remote work throughout the year. Any unused amount of remote days at the end of the year will be canceled.
+
+9. Violations:
+
+Violations of this policy may result in disciplinary action, up to and including termination of employment.
+
+Cape Ann reserves the right to terminate or modify remote work arrangements at the company’s discretion, based on factors including job performance issues, evolving business requirements, changes in job role responsibilities, etc.
+
+ 10. Revision History
+
+Date of Change
+
+Responsible
+
+Summary of Change
+
+January 2023
+
+InfoSec team
+
+Initial Document
+
+March 2023
+
+InfoSec team
+
+Remote Work  request policy update
+
+October  2023
+
+InfoSec team
+
+Reviewed and Approved
+

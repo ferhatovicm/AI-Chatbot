@@ -1,0 +1,102 @@
+Data & Information Security Policies
+1. Email Policy
+
+
+
+File:Email_POL_6.00_2023_6_30
+
+Classification: CONFIDENTIAL
+
+Note: If you are reading a printed copy of this document, please make sure that there is not a newer version of this document online at Cape Ann Enterprises (Cape Ann) Learning and Development Platform at: (https://lms.capeannenterprises.com/)
+
+ 
+
+1         Overview
+Electronic email is pervasively used in almost all industry verticals and is often the primary communication and awareness method within an organization. At the same time, misuse of email can post many legal, privacy and security risks, thus it’s important for users to understand the appropriate use of electronic communications.
+
+2         Purpose
+The purpose of this email policy is to ensure the proper use of Cape Ann email system and make users aware of what Cape Ann deems as acceptable and unacceptable use of its email system. This policy outlines the minimum requirements for use of email within Cape Ann Network.
+
+3         Scope
+This policy covers the appropriate use of any email sent from a Cape Ann email address and applies to all employees, vendors, and agents operating on behalf of Cape Ann.
+
+4         Policy
+4.1  All use of email must be consistent with Cape Ann policies and procedures of ethical conduct, safety, compliance with applicable laws, and proper business practices.
+
+4.2  Cape Ann email account should be used primarily for Cape Ann business-related purposes; personal communication is permitted on a limited basis, but non-Cape Ann-related commercial uses are prohibited.
+
+4.3  All Cape Ann data contained within an email message or an attachment must be secured according to the Data Protection Standard.
+
+4.4  Email should be retained only if it qualifies as a Cape Ann business record. Email is a Cape Ann business record if there exists a legitimate and ongoing business reason to preserve the information contained in the email.
+
+4.5  Email that is identified as a Cape Ann business record shall be retained according to Cape Ann Record Retention Schedule.
+
+4.6  The Cape Ann email system shall not to be used for the creation or distribution of any disruptive or offensive messages, including offensive comments about race, gender, hair color, disabilities, age, sexual orientation, pornography, religious beliefs, and practice, political beliefs, or national origin. Employees who receive any emails with this content from any Cape Ann employee should report the matter to their supervisor immediately and fill out Issue Report Policy.
+
+4.7  Users are prohibited from automatically forwarding Cape Ann's email to a third-party email system (noted in 4.8 below).  Individual messages which are forwarded by the user must not contain Cape Ann confidential or above information.
+
+4.8 Users must use CA Corporate GSuite tools, to create or memorialize any binding transactions, or to store or retain email on behalf of Cape Ann. Such communications and transactions should be conducted through proper channels using Cape Ann-approved documentation.
+
+4.9  Using a reasonable amount of Cape Ann resources for personal emails is acceptable, but non-work-related emails shall be saved in a separate folder from work-related emails.  Sending chain letters or joke emails from a Cape Ann email account is prohibited.
+
+4.10      Cape Ann employees shall have no expectation of privacy in anything they store, send or receive on the company’s email system.
+
+4.11      Cape Ann may monitor messages without prior notice. Cape Ann is not obliged to monitor email messages.﻿
+
+5         Policy Compliance
+5.1  Compliance Measurement
+
+Cape Ann Enterprise’s Information and Data Security Team (InfoSec) will verify compliance with this policy through various methods, including but not limited to, periodic walk-thru's, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
+
+5.2  Exceptions
+
+Any exception to the policy must be approved by the InfoSec team in advance.
+
+5.3  Non-Compliance
+
+An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+
+6       Related Standards, Policies, and Processes
+○      Data Protection Standard
+
+7       Definitions and Terms
+None.
+
+8      Revision History
+Date of Change
+
+Responsible
+
+Summary of Change
+
+Dec 2013
+
+CA InfoSec Team
+
+Updated and converted to a new format.
+
+May 2020
+
+CA InfoSec Team
+
+Updated Section 4.8
+
+October 2021
+
+Adnan Mesalic
+David Martz
+
+Reviewed, No Updates Required
+
+June 2023
+
+InfoSec team
+
+Replaced the Incident Report From - linked, with the Issue Report Policy - linked.
+
+June 2023
+
+InfoSec team
+
+Added document identification Taxonomy/ Abbreviations
+

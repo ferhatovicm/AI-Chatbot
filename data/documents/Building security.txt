@@ -1,0 +1,224 @@
+Building security
+
+File: BldgSec_POL_5.00_2023_10_5    
+
+Classification: CONFIDENTIAL 
+
+Note: If you are reading a printed copy of this document, please make sure that there is not a newer version of this document online at Cape Ann Enterprises (Cape Ann) Learning and Development Platform at: (https://lms.capeannenterprises.com/)
+
+ 
+
+
+Arming the System “BIT IV”
+
+ 
+
+●        The alarm gets armed with a universal alarm code
+
+Note: We only set the Global Alarm at the end of the day
+
+Make sure that you allow yourself 30 seconds to leave the building after setting the alarm.
+
+●        Consequences of not arming the alarm:
+
+○     An alarm system is not able to detect intrusion or burglary
+
+●        Who arms the alarm:
+
+○     The last person who leaves the office
+
+Disarming the System
+
+●        Global Alarm gets disarmed with a card at the RFID reader
+
+
+●        Consequences of not disarming the alarm in time
+
+○     Setting off a large-scale alarm
+
+●        Who disarms the alarm:
+
+○     First-person that shows up in the morning
+
+Additional instructions
+
+In case of emergency please call Sector Security at:
+
+Phone: 387 65 159724
+
+ 
+
+Arming the System “Main Office”
+
+ 
+
+●        The alarm gets armed on the stairway with two possible options:
+
+1. A code at the alarm keyboard
+
+2. A card at the RFID reader
+
+3. Entering the "* 0" combination on the keyboard
+
+ 
+
+Ensuring the alarm is activated:
+
+ The alarm is armed if you hear the sound "beep-beep-beep-beep..." like a countdown.
+
+- The alarm is not armed if you hear the long sound "beeeeeeeeeeeep". In this case, the arming procedure needs to be repeated.
+
+●        Consequences of not arming the alarm
+
+○     An alarm system is not able to detect intrusion or burglary
+
+
+●        Who arms the alarm?
+
+○     The last person who leaves the office
+
+ 
+
+Disarming the System
+
+ 
+
+●        The alarm gets disarmed on the stairway with two possible options:
+
+1. A code at the alarm keyboard
+
+2. A card at the RFID reader
+
+●        Consequences of not disarming the alarm in time
+
+○     Setting off a large-scale alarm
+
+●        Who disarms the alarm
+
+○     First-person that shows up in the morning
+
+ 
+
+Additional instructions
+
+ 
+
+●        In the case of staying in the office after 8 p.m.:
+
+Call Securitas (SEC ONE)  Security: 387 33 789 00 or 387 33 801 303
+Introduce yourself and tell them you’re staying late
+Tell them when you’ll be leaving the office
+
+
+Arming the System “Zenica Office”
+
+The office is physically locked by a key.
+Since it is a shared building alarm is armed by the last person leaving the building by an Alarm Code
+-          Consequences of not arming the alarm
+
+■     An alarm system is not able to detect intrusion or burglary
+
+-          Who arms the alarm
+
+■     The last person who leaves the office
+
+
+Disarming the System
+
+Since it is a shared building alarm is disabled at 07:30 AM
+The employee unlocks the office door with a key.
+●        Consequences of not disarming the alarm in time
+
+○     Setting off a large-scale alarm
+
+●        Who disarms the alarm
+
+○     First-person that shows up in the morning
+
+ 
+
+Additional instructions
+
+In case of emergency please call Gama AA d.o.o. filijala Zenica  at:
+
+Phone: 387 33 467 711
+
+ 
+
+Arming the System “Gracanica Office”
+
+ 
+
+The alarm gets armed with an alarm code (each employee has a different code).
+-          Consequences of not arming the alarm
+
+■     The alarm system is not able to detect intrusion or burglary
+
+-          Who arms the alarm
+
+■     The last person who leaves the office
+
+ 
+
+Disarming the System
+
+The alarm gets disarmed with code at the alarm keyboard - enter the code without any extra button.
+●        Consequences of not disarming the alarm in time
+
+○     Setting off a large-scale alarm
+
+●        Who disarms the alarm
+
+○     First-person that shows up in the morning
+
+Additional instructions
+
+In case of emergency please call Securitas (SEC ONE)  Security: 1333 or 387 33 789 00 or 387 33 801 303
+
+Date of Change
+
+Responsible
+
+Summary of Change
+
+May 2020
+
+CA InfoSec Team
+
+Updated with new procedures
+
+May 2023
+
+Adnan Mesalic
+
+David Martz
+
+Updated with new information regarding the change of the security provider.
+
+Added additional information for the offices in Zenica and Gracanica.
+
+June 2023
+
+Adnan Mesalic
+
+Updated with new information regarding the change of the security provider.
+
+July 2023
+
+InfoSec team
+
+Minor grammar corrections.
+
+Added document identification Taxonomy/ Abbreviations
+
+October 2023
+
+InfoSec team
+
+Added additional text to the section  “Arming the System “Main Office”, under  # 3.
+
+Added additional text and a section on “Ensuring the alarm is activated”.
+
+Minor grammar corrections.
+
+ 

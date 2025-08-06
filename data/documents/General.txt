@@ -1,0 +1,120 @@
+General
+1. Clean Desk Policy
+File: ClnDsk_POL_6.00_2023_9_27                                                                                              
+
+Classification: CONFIDENTIAL
+
+Note: If you are reading a printed copy of this document, please make sure that there is not a newer version of this document online at Cape Ann Enterprises (Cape Ann) Learning and Development Platform at: (https://lms.capeannenterprises.com/)
+
+1.     Overview
+A clean desk policy can be an important tool to ensure that all sensitive/confidential materials are removed from an end-user workspace and locked away when the items are not in use or an employee leaves his/her workstation. It is one of the top strategies to utilize when trying to reduce the risk of security breaches in the workplace.  Such a policy can also increase our employee’s awareness about protecting sensitive information.
+
+2.     Purpose
+The purpose of this policy is to establish the minimum requirements for maintaining a “clean desk” – where sensitive/critical information about our employees, our intellectual property, our customers, and our vendors is secure in locked areas and out of sight.  A Clean Desk policy is not only ISO 27001/17799 compliant, but it is also part of standard basic privacy controls.
+
+3.     Scope
+This policy applies to all Cape Ann employees and affiliates.
+
+4.     Policy
+4.1    Employees are required to ensure that all sensitive/confidential information in hardcopy or electronic form is secure in their work area at the end of the day and when they are expected to be gone for an extended period.
+
+4.2    Computer workstations must be locked when a workspace is unoccupied.
+
+4.3    Any Restricted or Sensitive information must be removed from the desk and locked in a drawer when the desk is unoccupied and at the end of the workday.
+
+4.4    File cabinets containing Restricted or Sensitive information must be kept closed and locked when not in use or when not attended.
+
+4.5    Keys used for access to Restricted or Sensitive information must not be left at an unattended desk.
+
+4.6    Passwords may not be left on sticky notes posted on or under a computer, nor may they be left written down in an accessible location.
+
+4.7    Printouts containing Restricted or Sensitive information should be immediately removed from the printer.
+
+4.8 Upon disposal Restricted and/or Sensitive documents should be shredded in the official shredder bins or placed in the locked confidential disposal bins.
+
+4.9 Whiteboards containing Restricted and/or Sensitive information should be erased.
+
+4.10 Lock away portable computing devices such as laptops and tablets.
+
+4.11 Treat mass storage devices such as CDROM, DVD, or USB drives as sensitive and secure them in a locked drawer.
+
+4.12 All devices' hard drives that are to be sent out for service need to be backed up, secured wiped (deep cleaned) in a locked drawer.
+
+4.13 All hard drives of devices intended for service, reaching End of Life (EOL), or being returned by an employee during the off-boarding process, must undergo backup, and secure wiping (deep cleaning). Confirm by the management before deep cleaning the device and removing it from a JumpCloud.
+
+4.14. Removable media is Not allowed to be used for data storage or any sensitive data
+
+All printers and fax machines should be cleared of papers as soon as they are printed; this helps ensure that sensitive documents are not left in printer trays for the wrong person to pick up.
+
+5.     Policy Compliance
+5.1  Compliance Measurement
+
+Cape Ann’s Information and Data Security Team (InfoSec) will verify compliance to this policy through various methods, including but not limited to, periodic walk-thru's, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
+
+5.2  Exceptions
+
+Any exception to the policy must be approved by the InfoSec team in advance.
+
+5.3  Non-Compliance
+
+An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
+
+6       Related Standards, Policies, and Processes
+None.
+
+7       Definitions and Terms
+None.
+
+8       Revision History
+Date of Change
+
+Responsible
+
+Summary of Change
+
+Jun 2014
+
+SANS Policy Team
+
+Updated and converted to a new format.
+
+May 2020
+
+CA InfoSec Team
+
+Updated Section 4.10
+
+October, 2021
+
+Adnan Mesalic
+David Martz
+
+Updated Section 4
+
+April 05, 2023
+
+InfoSec team
+
+Updated section 4.12
+
+May 2023
+
+InfoSec team
+
+Updated section 4.12
+
+June 2023
+
+InfoSec team
+
+Added document identification Taxonomy/ Abbreviations
+
+September 2023
+
+InfoSec team
+
+Added section 4.14
+
+
+
+
