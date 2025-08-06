@@ -1,5 +1,6 @@
 import os
 from dotenv import load_dotenv
+import streamlit as st
 
 load_dotenv()
 
@@ -14,7 +15,7 @@ class Config:
     VECTOR_STORE_PATH = "data/vector_store"
     
     # LLM settings (choose your provider)
-    GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+    GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
     MODEL_NAME = "models/gemini-2.0-flash"  # or your chosen model
     
     # Embedding model
