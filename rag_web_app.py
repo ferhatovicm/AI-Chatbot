@@ -8,7 +8,7 @@ st.markdown("<h2 style='text-align: center; color: #2c3e50;'>💬 Policy Chatbot
 @st.cache_resource
 def load_rag_system():
     rag = SimpleRAG()
-    rag.setup_rag_system(Config.DOCUMENTS_PATH, VECTOR_STORE_PATH=None)
+    rag.setup_rag_system(Config.DOCUMENTS_PATH, None)
     return rag
 
 rag = load_rag_system()
@@ -128,3 +128,4 @@ if st.button("🗑️ Reset Chat"):
     #for src in set(result["sources"]):
 
      #   st.write(f"- {src}")"""
+
