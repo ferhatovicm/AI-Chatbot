@@ -13,42 +13,47 @@ class SimpleRAG:
         self.llm = ChatGoogleGenerativeAI(model="models/gemini-2.0-flash", google_api_key=Config.GOOGLE_API_KEY, temperature=0.7)
         self.qa_chain = None
         
-    def setup_rag_system(self, documents_path: str, vector_store_path: str):
-        """Initialize the complete RAG system"""
-        # Try to load existing vector store
-        if not self.vector_store.load_vector_store(vector_store_path):
-            print("Creating new vector store...")
-            # Process documents and create vector store
-            chunks = self.doc_processor.process_documents(documents_path)
-            self.vector_store.create_vector_store(chunks)
-            self.vector_store.save_vector_store(vector_store_path)
-        
+    def setup_rag_system(self, documents_path: str, vector_store_path: str = None):
+        """Set up FAISS-based RAG system (streamlit cloud-compatible)"""
+
+        print("⚠️ Creating FAISS index from documents...")
+    
+        chunks = self.doc_processor.process_documents(documents_path)
+    
+        # Create FAISS
+        self.vector_store.create_vector_store(chunks)
+
+        if vector_store_path:
+           try:
+              self.vector_store.save_vector_store(vector_store_path)
+           except:
+              print("Could not save vector store. Likely on Streamlit Cloud.")
+
         # Create retriever
         retriever = self.vector_store.get_retriever()
-        
-        # Create custom prompt template
+
+        # Prompt template
         prompt_template = """Use the following context to answer the question. 
         If you cannot answer based on the context, say so clearly.
-        
+
         Context: {context}
-        
         Question: {question}
-        
         Answer:"""
-        
+
         prompt = PromptTemplate(
             template=prompt_template,
             input_variables=["context", "question"]
         )
-        
-        # Create QA chain
-        self.qa_chain = RetrievalQA.from_chain_type(
-            llm=self.llm,
-            chain_type="stuff",
-            retriever=retriever,
-            chain_type_kwargs={"prompt": prompt},
-            return_source_documents=True
+
+       # Create QA chain
+       self.qa_chain = RetrievalQA.from_chain_type(
+           llm=self.llm,
+           chain_type="stuff",
+           retriever=retriever,
+           chain_type_kwargs={"prompt": prompt},
+           return_source_documents=True
         )
+
     
     def ask_question(self, question: str):
         """Ask a question and get answer with sources"""
