@@ -6,3 +6,5 @@ faiss-cpu
 sentence-transformers
 python-dotenv
 openai  # or your chosen LLM provider
+langchain_google_genai
+streamlit
